@@ -25,3 +25,6 @@ replay_pid*
 
 # Ignore IDE-related metadata
 .idea/
+
+# Ignore dynamically-generated folders
+target/
